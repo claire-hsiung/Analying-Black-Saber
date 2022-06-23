@@ -73,4 +73,4 @@ Not only is The Hive passionate about making actionable insights, but we also pr
 * Only using data that is provided to us directly by Black Saber Software, and not to scrape other data that we do not have permission to access
 * Declaring our relationship with the clients (ie. financial or other interests) to maintain transparency regarding the influence it may have on the outcomes
 
-[Read Full Report](https://github.com/yian-wang/black-saber/files/6468678/black-saber-final.pdf)
+[Read Full Report]([https://github.com/yian-wang/black-saber/files/6468678/black-saber-final.pdf](https://github.com/claire-hsiung/Analying-Black-Saber/blob/main/black-saber-final.pdf))
