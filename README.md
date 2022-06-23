@@ -1,5 +1,5 @@
 # Bias in Black Saber's Hiring, Promotions, and Salaries
-A project adapted from a Data Analysis course at the University of Toronto (STA303/1002)
+A project adapted from the course Methods of Data Analysis II at the University of Toronto (STA303/1002)
 #### Project Status: Completed
 #### Contributors: 
 * [Claire Hsiung](https://github.com/claire-hsiung)
@@ -8,7 +8,7 @@ A project adapted from a Data Analysis course at the University of Toronto (STA3
 ## Project Introduction
 This is a data analysis project investigating any potential biases in a hypothetical company's hiring and promotion processes. 
 
-Deliverable: Report for Black Saber's Board of Directors on gender disparity in hiring, wages, and promotion.
+Deliverables: Report for Black Saber's Board of Directors on gender disparity in hiring, wages, and promotion.
 [Skip to Findings](https://github.com/yian-wang/black-saber/blob/main/README.md#findings-summary)
 
 ### Needs of this project
@@ -22,7 +22,7 @@ Deliverable: Report for Black Saber's Board of Directors on gender disparity in 
 * R (ggplot, tidyverse (dplyr))
 
 ## Project Description
-*Some context: this is a hypothetical project in which the data is based from real company data. We are assuming the position of consultants and analysts for a hypothetical consultancy called The Hive. We have been contracted by hypothetical Chief People Officer Gideon Blake of a hypothetical company called Black Saber Software. See the emails attached below for more background on the needs of this project.*
+*Context: this is a hypothetical project in which the data is based from real company data. We are assuming the position of consultants and analysts for a hypothetical consultancy called The Hive. We have been contracted by hypothetical Chief People Officer Gideon Blake of a hypothetical company called Black Saber Software. See the emails attached below for more background on the needs of this project.*
 
 <details>
 <summary>Gideon's emails</summary>
@@ -30,7 +30,7 @@ Deliverable: Report for Black Saber's Board of Directors on gender disparity in 
 <img src="https://github.com/yian-wang/black-saber/blob/main/images/email-2.png?raw=true" width="50%">
 </details>
 
-A critical area of concern in today’s workplace is gender bias, and Black Saber Software’s culture is no exception. It is critical that a company shows that their workplace practices are not only unbiased, but also that they embrace diversity. As a result, we have been hired as an external, third-party consultancy to review Black Saber Software’s hiring and promotion processes, as well as their employee salaries in order to determine whether or not the company is biased in their practices.
+A critical area of concern in today’s workplace is gender bias, and Black Saber Software’s culture is no exception. It is critical that a company shows that their workplace practices are not only unbiased, but also that they embrace diversity. As a result, we have been hired as an external, third-party consultancy to review Black Saber Software’s hiring and promotion processes, as well as their employee salaries in order to determine whether or not the company is biased in their practices and provide any insights regarding these practices.
 
 ### Research Questions
 * Does the hiring algorithm favour a certain gender? Do the humans conducting the interviews have bias towards a certain gender?
